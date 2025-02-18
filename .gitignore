@@ -1,0 +1,5 @@
+# ignorar archivos de log
+*.log
+
+#ignorar carpeta
+carpeta_ignorada/
